@@ -1,6 +1,6 @@
 "use client";
 
-import { motion, MotionValue, useMotionValueEvent, useTransform } from "framer-motion";
+import { motion, MotionValue, useMotionValueEvent } from "framer-motion";
 import { useState } from "react";
 
 interface OverlayProps {
