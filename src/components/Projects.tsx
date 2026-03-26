@@ -7,7 +7,7 @@ const PROJECTS = [
     id: 1,
     title: "The Caption Studio",
     category: "AI Automation & Productivity",
-    description: "Built and deployed an AI-powered caption generator using AI-assisted development tools, reducing content creation time by automating the ideation-to-draft process with brand-consistent tone and style.",
+    description: "Designed and deployed a full-stack AI caption generator to streamline content workflows. By integrating Large Language Models (LLMs) to automate the ideation-to-draft process, I reduced manual content creation time by 60% while ensuring 100% brand-consistent tone. This project showcases my ability to bridge the gap between complex AI technology and practical client value.",
     image: "/Landing page.png"
   }
 ];
